@@ -1,3 +1,7 @@
+Move to [https://github.com/miniprogram-analyzer/miniprogram-analyzer](https://github.com/miniprogram-analyzer/miniprogram-analyzer)
+
+---
+
 # plato mini program
 
 ## 代码质量衡量指标说明
